@@ -10,7 +10,7 @@
 		0A2CC7572854BA13001D6EF8 /* PagingStudyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2CC7562854BA13001D6EF8 /* PagingStudyApp.swift */; };
 		0A2CC7592854BA13001D6EF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2CC7582854BA13001D6EF8 /* ContentView.swift */; };
 		0A2CC75B2854BA19001D6EF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A2CC75A2854BA19001D6EF8 /* Assets.xcassets */; };
-		0A2CC7812854C371001D6EF8 /* Preview Content in Resources */ = {isa = PBXBuildFile; fileRef = 0A2CC7802854C371001D6EF8 /* Preview Content */; };
+		0A2CC7872854C6D3001D6EF8 /* Preview Content in Resources */ = {isa = PBXBuildFile; fileRef = 0A2CC7862854C6D3001D6EF8 /* Preview Content */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,7 +18,7 @@
 		0A2CC7562854BA13001D6EF8 /* PagingStudyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagingStudyApp.swift; sourceTree = "<group>"; };
 		0A2CC7582854BA13001D6EF8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0A2CC75A2854BA19001D6EF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		0A2CC7802854C371001D6EF8 /* Preview Content */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Preview Content"; path = "Preview Content/Preview Content"; sourceTree = "<group>"; };
+		0A2CC7862854C6D3001D6EF8 /* Preview Content */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Preview Content"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +54,7 @@
 				0A2CC7562854BA13001D6EF8 /* PagingStudyApp.swift */,
 				0A2CC7582854BA13001D6EF8 /* ContentView.swift */,
 				0A2CC75A2854BA19001D6EF8 /* Assets.xcassets */,
-				0A2CC7802854C371001D6EF8 /* Preview Content */,
+				0A2CC7862854C6D3001D6EF8 /* Preview Content */,
 			);
 			path = PagingStudy;
 			sourceTree = "<group>";
@@ -117,7 +117,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A2CC7812854C371001D6EF8 /* Preview Content in Resources */,
+				0A2CC7872854C6D3001D6EF8 /* Preview Content in Resources */,
 				0A2CC75B2854BA19001D6EF8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
