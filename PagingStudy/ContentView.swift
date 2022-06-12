@@ -26,7 +26,7 @@ struct ContentView: View {
                         }
                     }
                 }
-                if viewModel.state.isLoading {
+                if state.isLoading {
                     HStack(alignment: .center) {
                         ProgressView().progressViewStyle(CircularProgressViewStyle.init())
                     }.padding(8).frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity, alignment: .center)
